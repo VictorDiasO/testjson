@@ -1,0 +1,188 @@
+[
+  {
+    "pizzas": [
+      {
+        "id": "calabreza",
+        "name": "Calabreza",
+        "img": "calabreza",
+        "ingredients": "Mussarela, calabresa e cebola, orégano.",
+        "recommendationDay": true,
+        "points": 300,
+        "price": 19.99,
+        "allIngredients": ["Mussarela", "calabresa", "cebola", "orégano"]
+      },
+      {
+        "id": "mussarela",
+        "name": "Mussarela",
+        "img": "mussarela",
+        "ingredients": "Queijo mussarela e orégano.",
+        "recommendationDay": false,
+        "points": 360,
+        "price":29.99,
+        "allIngredients": ["Queijo", "mussarela", "orégano"]
+      },
+      {
+        "id": "napolitana",
+        "name": "Napolitana",
+        "img": "napolitana",
+        "ingredients": "Mussarela, tomate, orégano e parmesão ralado.",
+        "recommendationDay": false,
+        "points": 250,
+        "price":39.99,
+        "allIngredients": ["Mussarela", "tomate", "orégano", "parmesão ralado."]
+      },
+      {
+        "id": "peperone",
+        "name": "peperone",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":49.99,
+        "allIngredients": ["Mussarela", "orégano", "pepperoni"]
+      },
+      {
+        "id": "peperone2",
+        "name": "peperone2",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":39.99,
+        "allIngredients": ["Mussarela", "orégano", "pepperoni"]
+      },
+      {
+        "id": "peperone3",
+        "name": "peperone3",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":49.99,
+        "allIngredients": ["Mussarela", "orégano", "pepperoni"]
+      }
+    ],
+    "sizesAndPrices": [
+      {
+        "size": "Pequena",
+        "price": 19.99,
+        "slices": 4
+      },
+      {
+        "size": "Média",
+        "price": 29.99,
+        "slices": 6
+      },
+      {
+        "size": "Grande",
+        "price": 39.99,
+        "slices": 8
+      },
+      {
+        "size": "Família",
+        "price": 49.99,
+        "slices": 12
+      }
+    ],
+    "drinks": [
+      {
+        "id": "cocacola",
+        "name": "Coca-Cola",
+        "img": "cocacola",
+        "ingredients": "",
+        "recommendationDay": true,
+        "points": 300,
+        "price": 9.99
+      },
+      {
+        "id": "guarana",
+        "name": "Guaraná",
+        "img": "guarana",
+        "ingredients": "",
+        "recommendationDay": false,
+        "points": 360,
+        "price": 9.99
+      },
+      {
+        "id": "cocacola2l",
+        "name": "Coca Cola 2L",
+        "img": "coca2l",
+        "ingredients": "",
+        "recommendationDay": false,
+        "points": 250,
+        "price": 9.99
+      },
+      {
+        "id": "pepsi",
+        "name": "Pepsi",
+        "img": "pepsi",
+        "ingredients": "",
+        "recommendationDay": false,
+        "points": 400,
+        "price": 9.99
+      }
+    ],
+    "brotos": [
+      {
+        "id": "calabreza",
+        "name": "Calabreza",
+        "img": "calabreza",
+        "ingredients": "Mussarela, calabresa e cebola, orégano.",
+        "recommendationDay": true,
+        "points": 300,
+        "price": 11.99,
+        "allIngredients": ["Mussarela", "calabresa", "cebola", "orégano"]
+      },
+      {
+        "id": "mussarela",
+        "name": "Mussarela",
+        "img": "mussarela",
+        "ingredients": "Queijo mussarela e orégano.",
+        "recommendationDay": false,
+        "points": 360,
+        "price":21.99,
+        "allIngredients": ["Queijo", "mussarela", "orégano"]
+      },
+      {
+        "id": "napolitana",
+        "name": "Napolitana",
+        "img": "napolitana",
+        "ingredients": "Mussarela, tomate, orégano e parmesão ralado.",
+        "recommendationDay": false,
+        "points": 250,
+        "price":31.99,
+        "allIngredients": ["Mussarela", "tomate", "orégano", "parmesão ralado."]
+      },
+      {
+        "id": "peperone",
+        "name": "peperone",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":41.99,
+        "allIngredients": ["Mussarela", "orégano", "pepperoni"]
+      },
+      {
+        "id": "peperone2",
+        "name": "peperone2",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":31.99,
+        "allIngredients": ["Mussarela", "orégano", "pepperoni"]
+      },
+      {
+        "id": "peperone3",
+        "name": "peperone3",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":41.99,
+        "allIngredients": ["Mussarela", "orégano", "pepperoni"]
+      }
+    ]
+  }
+]
