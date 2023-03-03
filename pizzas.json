@@ -2,8 +2,8 @@
   {
     "pizzas": [
       {
-        "id": "calabreza",
-        "name": "Calabreza",
+        "id": "calabresa",
+        "name": "Calabresa",
         "img": "calabreza",
         "ingredients": "Mussarela, calabresa e cebola, orégano.",
         "recommendationDay": true,
@@ -124,8 +124,8 @@
     ],
     "brotos": [
       {
-        "id": "calabreza-broto",
-        "name": "Broto Calabreza",
+        "id": "calabresa-broto",
+        "name": "Broto Calabresa",
         "img": "calabreza",
         "ingredients": "Mussarela, calabresa e cebola, orégano.",
         "recommendationDay": true,
