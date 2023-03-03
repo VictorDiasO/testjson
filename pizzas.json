@@ -124,8 +124,8 @@
     ],
     "brotos": [
       {
-        "id": "calabreza",
-        "name": "Calabreza",
+        "id": "calabreza-broto",
+        "name": "Broto Calabreza",
         "img": "calabreza",
         "ingredients": "Mussarela, calabresa e cebola, orégano.",
         "recommendationDay": true,
@@ -134,8 +134,8 @@
         "allIngredients": ["Mussarela", "calabresa", "cebola", "orégano"]
       },
       {
-        "id": "mussarela",
-        "name": "Mussarela",
+        "id": "mussarela-broto",
+        "name": "Broto Mussarela",
         "img": "mussarela",
         "ingredients": "Queijo mussarela e orégano.",
         "recommendationDay": false,
@@ -144,8 +144,8 @@
         "allIngredients": ["Queijo", "mussarela", "orégano"]
       },
       {
-        "id": "napolitana",
-        "name": "Napolitana",
+        "id": "napolitana-broto",
+        "name": "Broto Napolitana",
         "img": "napolitana",
         "ingredients": "Mussarela, tomate, orégano e parmesão ralado.",
         "recommendationDay": false,
@@ -154,8 +154,8 @@
         "allIngredients": ["Mussarela", "tomate", "orégano", "parmesão ralado."]
       },
       {
-        "id": "peperone",
-        "name": "peperone",
+        "id": "peperone-broto",
+        "name": "Broto Peperone",
         "img": "peperone",
         "ingredients": "Mussarela, orégano e pepperoni.",
         "recommendationDay": false,
@@ -164,8 +164,8 @@
         "allIngredients": ["Mussarela", "orégano", "pepperoni"]
       },
       {
-        "id": "peperone2",
-        "name": "peperone2",
+        "id": "peperone2-broto",
+        "name": "Broto Peperone2",
         "img": "peperone",
         "ingredients": "Mussarela, orégano e pepperoni.",
         "recommendationDay": false,
@@ -174,8 +174,8 @@
         "allIngredients": ["Mussarela", "orégano", "pepperoni"]
       },
       {
-        "id": "peperone3",
-        "name": "peperone3",
+        "id": "peperone3-broto",
+        "name": "Broto Peperone3",
         "img": "peperone",
         "ingredients": "Mussarela, orégano e pepperoni.",
         "recommendationDay": false,
